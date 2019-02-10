@@ -27,7 +27,7 @@ yarn lint
 yarn prettier
 yarn prettier:watch
 yarn checktypes
-yarn checktypes:build
+yarn checktypes:watch
 ```
 
 # VSCode
